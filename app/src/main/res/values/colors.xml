@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#017EC9</color>
+    <color name="colorPrimaryDark">#4154cb</color>
+    <color name="colorAccent">#017EC9</color>
+
+    <color name="chip_details_background">#00B8D4</color>
+    <color name="chip_focused_text_color">#FFFFFF</color>
+    <color name="chip_text_color">#DB000000</color>
+    <color name="chip_icon_color">#8C000000</color>
+
+
+    <color name="red">#FF3939</color>
+    <color name="background_emergency">#F1F0F6</color>
+    <color name="text_color_ash">#9E9E9E</color>
+
+    <color name="colorTab">#017EC9</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorLightBlue">#a0c4de</color>
+    <color name="colorTabIndicator">#cdd4d9</color>
+    <color name="colorGray">#ecefef</color>
+    <color name="colorText">#1d1c1c</color>
+    <color name="colorOrange">#F36F21</color>
+</resources>
